@@ -1,0 +1,42 @@
+		
+<root>
+	<view type="FieldCriteriaView" Guid="06424d49-5e45-434d-9534-5a71dde3cc47" Name="FieldCriteriaView1" Message="">
+		<FieldCriterionViews Count="3">
+			<Entries>
+				<Entry>
+					<Key String="fieldCriterionView2" />
+					<Value>
+						<view type="FieldCriterionView" ComparisonOperator="Contains" Terms="sue" SelectedField="field3" Guid="7c8c117a-3f83-416f-a38f-bfa6d036d0a6" Name="FieldCriterionView2" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+				<Entry>
+					<Key String="fieldCriterionView3" />
+					<Value>
+						<view type="FieldCriterionView" ComparisonOperator="Contains" Terms="" SelectedField="field4" Guid="bf9b8d2d-4d57-4530-86ed-b2f1054907ce" Name="FieldCriterionView3" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+				<Entry>
+					<Key String="fieldCriterionView1" />
+					<Value>
+						<view type="FieldCriterionView" ComparisonOperator="Contains" Terms="bob" SelectedField="field1" Guid="ebe8cab4-dbb4-4c13-be66-2dd1138ce0f4" Name="FieldCriterionView1" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+			</Entries>
+		</FieldCriterionViews>
+		<FieldDefs Count="4">
+			<Items>
+				<FieldDef Name="field1" />
+				<FieldDef Name="field2" />
+				<FieldDef Name="field3" />
+				<FieldDef Name="field4" />
+			</Items>
+		</FieldDefs>
+		<Events Count="0" />
+	</view>
+</root>

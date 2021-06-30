@@ -1,0 +1,141 @@
+<root>
+	<view type="BasicSearchView" Contains="" NotContains="" Guid="ae31f58b-00f6-4297-80ad-0af3c40e926d" Name="myBasicSearchView" Message="">
+		<view type="FieldCriteriaView" Guid="a486f1ab-4299-4c8c-b0cc-7e60fe726a05" Name="myBasicSearchView.fieldCriteriaView" Message="">
+			<FieldCriterionViews Count="3">
+				<Entries>
+					<Entry>
+						<Key String="fieldCriterionView2" />
+						<Value>
+							<view type="FieldCriterionView" ComparisonOperator="Contains" Terms="sue" SelectedField="Field3" Guid="491a06b1-e22c-45ff-81f7-96f90fa4478f" Name="FieldCriterionView2" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+					<Entry>
+						<Key String="fieldCriterionView3" />
+						<Value>
+							<view type="FieldCriterionView" ComparisonOperator="Contains" Terms="" SelectedField="Field4" Guid="d97e757c-737c-4b10-a59c-050a4350480f" Name="FieldCriterionView3" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+					<Entry>
+						<Key String="fieldCriterionView1" />
+						<Value>
+							<view type="FieldCriterionView" ComparisonOperator="Contains" Terms="bob" SelectedField="Field1" Guid="751e81aa-4d1b-4ec6-a422-5ac48db27edd" Name="FieldCriterionView1" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+				</Entries>
+			</FieldCriterionViews>
+			<FieldDefs Count="10">
+				<Items>
+					<FieldDef Name="Field0" FieldType="STRING" />
+					<FieldDef Name="Field1" FieldType="STRING" />
+					<FieldDef Name="Field2" FieldType="STRING" />
+					<FieldDef Name="Field3" FieldType="STRING" />
+					<FieldDef Name="Field4" FieldType="STRING" />
+					<FieldDef Name="DateField5" FieldType="DATE" />
+					<FieldDef Name="DateField6" FieldType="DATE" />
+					<FieldDef Name="DateField7" FieldType="DATE" />
+					<FieldDef Name="DateField8" FieldType="DATE" />
+					<FieldDef Name="DateField9" FieldType="DATE" />
+				</Items>
+			</FieldDefs>
+			<Events Count="0" />
+		</view>
+		<view type="DateCriteriaView" From="01/01/0001 00:00:00" To="01/01/0001 00:00:00" SelectedField="DateField5" Guid="26b5b275-3299-4c51-bc57-0f272b9e8fb0" Name="myBasicSearchView.dateCriteriaView" Message="">
+			<DateFields Count="5">
+				<Items>
+					<FieldDef Name="DateField5" FieldType="DATE" />
+					<FieldDef Name="DateField6" FieldType="DATE" />
+					<FieldDef Name="DateField7" FieldType="DATE" />
+					<FieldDef Name="DateField8" FieldType="DATE" />
+					<FieldDef Name="DateField9" FieldType="DATE" />
+				</Items>
+			</DateFields>
+			<Events Count="0" />
+		</view>
+		<view type="DocumentTypesView" Guid="0fdbfee6-e9c0-4119-89c8-ec3cc20b0159" Name="myBasicSearchView.documentTypesView" Message="">
+			<DocumentTypeViews Count="9">
+				<Entries>
+					<Entry>
+						<Key String="Sandy" />
+						<Value>
+							<view type="DocumentTypeView" Selected="False" Caption="Sandy" Guid="062a7a4e-b4e2-4e56-857c-0db720a45a09" Name="myBasicSearchView.documentTypesView.Sandy" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+					<Entry>
+						<Key String="Blah" />
+						<Value>
+							<view type="DocumentTypeView" Selected="False" Caption="Blah" Guid="11c7c85c-6b72-42e9-b93a-8a5888014bc4" Name="myBasicSearchView.documentTypesView.Blah" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+					<Entry>
+						<Key String="Scooby" />
+						<Value>
+							<view type="DocumentTypeView" Selected="False" Caption="Scooby" Guid="92c22daa-2766-416f-a006-f7ac7e75fcf8" Name="myBasicSearchView.documentTypesView.Scooby" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+					<Entry>
+						<Key String="Doo" />
+						<Value>
+							<view type="DocumentTypeView" Selected="False" Caption="Doo" Guid="1501d063-558b-4add-a64a-6a4d24bdb775" Name="myBasicSearchView.documentTypesView.Doo" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+					<Entry>
+						<Key String="Etc" />
+						<Value>
+							<view type="DocumentTypeView" Selected="False" Caption="Etc" Guid="e76d14ac-1423-4248-92cf-a16b3a213864" Name="myBasicSearchView.documentTypesView.Etc" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+					<Entry>
+						<Key String="All" />
+						<Value>
+							<view type="DocumentTypeView" Selected="False" Caption="All" Guid="c8365979-0460-4819-860b-0582cec3a871" Name="myBasicSearchView.documentTypesView.All" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+					<Entry>
+						<Key String="Pigsy" />
+						<Value>
+							<view type="DocumentTypeView" Selected="False" Caption="Pigsy" Guid="d7af3034-1122-4ba8-b6cd-3181fd9a67f7" Name="myBasicSearchView.documentTypesView.Pigsy" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+					<Entry>
+						<Key String="Tripitaka" />
+						<Value>
+							<view type="DocumentTypeView" Selected="False" Caption="Tripitaka" Guid="1b53c049-e8d1-4af3-bbe5-505d8fd59abb" Name="myBasicSearchView.documentTypesView.Tripitaka" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+					<Entry>
+						<Key String="Nothing" />
+						<Value>
+							<view type="DocumentTypeView" Selected="False" Caption="Nothing" Guid="b6aba908-bbae-46d4-8d91-fc08b700dc6f" Name="myBasicSearchView.documentTypesView.Nothing" Message="">
+								<Events Count="0" />
+							</view>
+						</Value>
+					</Entry>
+				</Entries>
+			</DocumentTypeViews>
+			<Events Count="0" />
+		</view>
+		<Events Count="0" />
+	</view>
+</root>

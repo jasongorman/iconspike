@@ -1,0 +1,70 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icon.spike", "http://localhost/icon.spike/icon.spike.csproj", "{5491CA99-1519-4AC4-893C-D97668B40A05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTests", "Tests\NUnitTests\NUnitTests.csproj", "{14AA9EF0-7E87-4ED3-AF8E-F5DD873AC254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlRender", "..\CSHARP_SPIKE\View Serialization\XmlRender\XmlRender.csproj", "{D93B3B31-0481-4642-8039-4DB09AEEEF95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "context", "context\context.csproj", "{CFDA3A6A-2F01-40F2-934E-7710CD13E540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viewlib", "viewlib\viewlib.csproj", "{FD48DA4C-567B-4335-BF43-C29E17D9BA7A}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 6
+		SccLocalPath0 = .
+		CanCheckoutShared = false
+		SolutionUniqueID = {3FE495CD-0B26-45C0-AD60-D0F330C80B72}
+		SccProjectUniqueName1 = Tests\\NUnitTests\\NUnitTests.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection1 = Tests\\NUnitTests\\
+		SccProjectUniqueName2 = context\\context.csproj
+		SccLocalPath2 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection2 = context\\
+		SccProjectUniqueName3 = viewlib\\viewlib.csproj
+		SccLocalPath3 = .
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection3 = viewlib\\
+		SccProjectUniqueName4 = ..\\CSHARP_SPIKE\\View\u0020Serialization\\XmlRender\\XmlRender.csproj
+		SccProjectName4 = \u0022$/ICON\u0020Phase\u00203/data/Research/View\u0020Serialization\u0022,\u0020ELFAAAAA
+		SccLocalPath4 = ..\\CSHARP_SPIKE\\View\u0020Serialization
+		CanCheckoutShared = false
+		SccProjectFilePathRelativizedFromConnection4 = XmlRender\\
+		SccProjectUniqueName5 = http://localhost/icon.spike/icon.spike.csproj
+		SccLocalPath5 = http://localhost/icon.spike/
+		CanCheckoutShared = false
+		SccProjectEnlistmentChoice5 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5491CA99-1519-4AC4-893C-D97668B40A05}.Debug.ActiveCfg = Debug|.NET
+		{5491CA99-1519-4AC4-893C-D97668B40A05}.Debug.Build.0 = Debug|.NET
+		{5491CA99-1519-4AC4-893C-D97668B40A05}.Release.ActiveCfg = Release|.NET
+		{14AA9EF0-7E87-4ED3-AF8E-F5DD873AC254}.Debug.ActiveCfg = Debug|.NET
+		{14AA9EF0-7E87-4ED3-AF8E-F5DD873AC254}.Debug.Build.0 = Debug|.NET
+		{14AA9EF0-7E87-4ED3-AF8E-F5DD873AC254}.Release.ActiveCfg = Release|.NET
+		{D93B3B31-0481-4642-8039-4DB09AEEEF95}.Debug.ActiveCfg = Debug|.NET
+		{D93B3B31-0481-4642-8039-4DB09AEEEF95}.Debug.Build.0 = Debug|.NET
+		{D93B3B31-0481-4642-8039-4DB09AEEEF95}.Release.ActiveCfg = Release|.NET
+		{D93B3B31-0481-4642-8039-4DB09AEEEF95}.Release.Build.0 = Release|.NET
+		{CFDA3A6A-2F01-40F2-934E-7710CD13E540}.Debug.ActiveCfg = Debug|.NET
+		{CFDA3A6A-2F01-40F2-934E-7710CD13E540}.Debug.Build.0 = Debug|.NET
+		{CFDA3A6A-2F01-40F2-934E-7710CD13E540}.Release.ActiveCfg = Release|.NET
+		{CFDA3A6A-2F01-40F2-934E-7710CD13E540}.Release.Build.0 = Release|.NET
+		{FD48DA4C-567B-4335-BF43-C29E17D9BA7A}.Debug.ActiveCfg = Debug|.NET
+		{FD48DA4C-567B-4335-BF43-C29E17D9BA7A}.Debug.Build.0 = Debug|.NET
+		{FD48DA4C-567B-4335-BF43-C29E17D9BA7A}.Release.ActiveCfg = Release|.NET
+		{FD48DA4C-567B-4335-BF43-C29E17D9BA7A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

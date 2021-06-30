@@ -1,0 +1,9 @@
+<root>
+	<view type="LoginView" UserId="null" Password="null" Guid="f5b892c3-931c-4afe-aff4-67602622b1f3" Name="login" Message="null">
+		<Events Count="1">
+			<Items>  
+				<InputEvent IsEnabled="False" Name="login" />  
+			</Items>  
+		</Events>  
+	</view>  
+</root>

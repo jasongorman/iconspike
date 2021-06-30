@@ -1,0 +1,91 @@
+<root>
+	<view type="DocumentTypesView" Guid="ebd22a4d-1cea-4c1a-9e1f-f4132b8f4b52" Name="mytypes" Message="">
+		<DocumentTypeViews Count="10">
+			<Entries>
+				<Entry>
+					<Key String="Doctype1" />
+					<Value>
+						<view type="DocumentTypeView" Selected="False" Guid="455c76d3-6d45-47fb-ab7e-2b248dbbc3ca" Name="Doctype1" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+				<Entry>
+					<Key String="Doctype6" />
+					<Value>
+						<view type="DocumentTypeView" Selected="False" Guid="0ab27910-4ee5-4b40-96aa-11058337ac70" Name="Doctype6" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+				<Entry>
+					<Key String="Doctype7" />
+					<Value>
+						<view type="DocumentTypeView" Selected="True" Guid="6ac92180-9d14-4edb-9ea7-56a19f04605f" Name="Doctype7" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+				<Entry>
+					<Key String="Doctype4" />
+					<Value>
+						<view type="DocumentTypeView" Selected="False" Guid="d049bf3b-1237-4b81-b4a3-6661eedd4014" Name="Doctype4" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+				<Entry>
+					<Key String="Doctype5" />
+					<Value>
+						<view type="DocumentTypeView" Selected=
+"False" Guid="ee243f9f-90d0-4cff-96e1-504a5498721e" Name="Doctype5" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+				<Entry>
+					<Key String="Doctype8" />
+					<Value>
+						<view type="DocumentTypeView" Selected="False" Guid="d696509f-146f-4d7b-9888-3be1bf056b9d" Name="Doctype8" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+				<Entry>
+					<Key String="Doctype9" />
+					<Value>
+						<view type="DocumentTypeView" Selected="False" Guid="c91fcc83-66c7-41e8-89a8-373c194ceb9e" Name="Doctype9" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+				<Entry>
+					<Key String="Doctype10" />
+					<Value>
+						<view type="DocumentTypeView" Selected="False" Guid="80ed127f-9442-43b8-baba-5c726ecc94e3" Name="Doctype10" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+				<Entry>
+					<Key String="Doctype2" />
+					<Value>
+						<view type="DocumentTypeView" Selected="False" Guid="94510a51-cb96-4959-9105-3392a2229c2b" Name="Doctype2" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+				<Entry>
+					<Key String="Doctype3" />
+					<Value>
+						<view type="DocumentTypeView" Selected="False" Guid="22717980-
+0500-4ad7-97e6-4a2848dc3f1e" Name="Doctype3" Message="">
+							<Events Count="0" />
+						</view>
+					</Value>
+				</Entry>
+			</Entries>
+		</DocumentTypeViews>
+		<Events Count="0" />
+	</view>
+</root>

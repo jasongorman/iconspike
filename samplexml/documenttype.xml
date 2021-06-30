@@ -1,0 +1,6 @@
+<view type="DocumentTypeView" name="Deposition">	
+	<contents>		
+		<name>Deposition</name>		
+		<selected>true</selected>	
+	</contents>
+</view>					
